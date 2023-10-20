@@ -1,5 +1,5 @@
 <div>
-    <h1>Hi!!! I am Eduardo</h1>
+    <h1>Hello, I am Eduardo Martins</h1>
     <h2>Bem vindo ao meu perfil</h2>
     <p>Olá, eu sou o Eduardo Martins, estudante de Sistemas de Informação na Estácio. Estou no início da minha jornada como desenvolvedor, com uma motivação incansável e um forte interesse no mundo da tecnologia. Estou entusiasmado para buscar novas oportunidades no campo de TI.</p>
 </div>
