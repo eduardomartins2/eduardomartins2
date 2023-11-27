@@ -5,8 +5,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/eduardomartins2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardomartins2&layout=compact&theme=transparent&include_all_commits&bg_color=000&border_color=ff6101&show_icons=true&icon_color=ff6101&title_color=ff6101&text_color=FFF"/>
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardomartins2&bg_color=000&border_color=ff6101&title_color=ff6101&text_color=FFF&langs_count=4"/>
 </div>
 
