@@ -4,7 +4,7 @@
     <p>Olá, eu sou o Eduardo Martins, estudante de Sistemas de Informação na Estácio. Estou no início da minha jornada como desenvolvedor, com uma motivação incansável e um forte interesse no mundo da tecnologia. Estou entusiasmado para buscar novas oportunidades no campo de TI.</p>
 </div>
 
-<div align="center">
+<div>
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardomartins2&bg_color=000&border_color=ff6101&title_color=ff6101&text_color=FFF&langs_count=4"/>
 </div>
 
