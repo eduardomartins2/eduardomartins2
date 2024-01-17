@@ -11,8 +11,8 @@
 **Aplicações e dados**
 
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
-![Django](https://img.shields.io/badge/django-%333333?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%333333.svg?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/django-333333?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-333333?style=flat&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
