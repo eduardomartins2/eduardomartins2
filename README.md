@@ -10,7 +10,7 @@
 
 **Aplicações e dados**
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
