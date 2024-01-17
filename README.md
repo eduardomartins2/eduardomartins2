@@ -11,7 +11,7 @@
 **Aplicações e dados**
 
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=ffff00)
-![Django](https://img.shields.io/badge/django-333333?style=flat&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-333333?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-333333?style=flat&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=red)
@@ -38,5 +38,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-eduardomartins2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardomartins2/)](https://www.linkedin.com/in/eduardomartins2/)
 [![Gmail Badge](https://img.shields.io/badge/-martinsmajed@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martinsmajed@gmail.com)](mailto:martinsmajed@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/eduardomartins2?label=follow&style=social)](https://github.com/eduardomartins2)
 [![Instagram](https://img.shields.io/badge/Instagram-fff?style=flat&logo=instagram)](https://www.instagram.com/edu_jmartins/)
+[![GitHub](https://img.shields.io/github/followers/eduardomartins2?label=follow&style=social)](https://github.com/eduardomartins2)
+
