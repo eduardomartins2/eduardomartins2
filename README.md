@@ -8,8 +8,6 @@
 
 ## My Skills
 
-**Aplicações e dados**
-
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=ffff00)
 ![Django](https://img.shields.io/badge/Django-333333?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-333333?style=flat&logo=flask&logoColor=white)
