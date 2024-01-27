@@ -38,6 +38,5 @@
 
 [![Linkedin](https://img.shields.io/badge/-eduardomartins2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardomartins2/)](https://www.linkedin.com/in/eduardomartins2/)
 [![Gmail Badge](https://img.shields.io/badge/-martinsmajed@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martinsmajed@gmail.com)](mailto:martinsmajed@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-fff?style=flat&logo=instagram)](https://www.instagram.com/edu_jmartins/)
 [![GitHub](https://img.shields.io/github/followers/eduardomartins2?label=follow&style=social)](https://github.com/eduardomartins2)
 
