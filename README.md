@@ -28,7 +28,7 @@
 
 <br/>
 
-<a href="https://github.com/eduardomartins" title="Perfil do Eduardo">
+<a href="https://github.com/eduardomartins2" title="Perfil do Eduardo">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardomartins2&bg_color=000&border_color=ff6101&title_color=ff6101&text_color=FFF&langs_count=4"/>
 </a>
 
