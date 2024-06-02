@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Sistemas de Informação na Estácio
-- 🌱 Desenvolvedor Python.
+- 🤔 Exploring new technologies and developing software solutions,
+- 🎓 Studying Information Systems at Estácio,
+- 🌱 Full Stack Developer.
 
 ## My Skills
 
@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardomartins2&bg_color=000&border_color=ff6101&title_color=ff6101&text_color=FFF&langs_count=4"/>
 </a>
 
-## Onde me encontrar
+## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-eduardomartins2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardomartins2/)](https://www.linkedin.com/in/eduardomartins2/)
 [![Gmail Badge](https://img.shields.io/badge/-martinsmajed@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martinsmajed@gmail.com)](mailto:martinsmajed@gmail.com)
