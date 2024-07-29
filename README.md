@@ -35,6 +35,6 @@
 ## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-eduardomartins2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardomartins2/)](https://www.linkedin.com/in/eduardomartins2/)
-[![Gmail Badge](https://img.shields.io/badge/-martinsmajed@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardomartinsdev2@gmail.com)](mailto: eduardomartinsdev2@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-eduardomartinsdev2@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardomartinsdev2@gmail.com)](mailto:eduardomartinsdev2@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/eduardomartins2?label=follow&style=social)](https://github.com/eduardomartins2)
 
