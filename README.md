@@ -1,11 +1,5 @@
 <h1>Hello, I am Eduardo Martins</h1>
 
-## About Me
-
-- Exploring new technologies and developing software solutions,
-- Studying Information Systems at Estácio,
-- Full Stack Developer,
-- Python Developer.
 
 ## My Skills
 
