@@ -20,44 +20,47 @@
 ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman)
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
+![Shell Script](https://img.shields.io/badge/Shell-333333?style=flat&logo=gnu-bash&logoColor=white)
 
 ### 🖥️ Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js)
 
 ### 🗄️ Banco de Dados & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### 📸 [Fotografias Vitória](https://github.com/eduardomartins2/fotografias-vitoria)
-Site institucional simples para fotógrafa, com foco em galeria e formulário de contato. Desenvolvido com HTML, CSS e JavaScript puro.
+### 📸 [Fotografias Vitória](https://github.com/eduardomartins2/fotografias-vitoria)  
+Site institucional em React.js para fotógrafa, com foco em galeria de imagens e formulário de contato. Utiliza React Router DOM.
 
-### 🐹 [Go API Posts](https://github.com/eduardomartins2/go-api-posts)
-API RESTful em Go para gerenciamento de posts. Uso de padrão MVC e manipulação com banco de dados relacional.
+### 🐹 [Go API Posts](https://github.com/eduardomartins2/go-api-posts)  
+API RESTful em Go com o framework Gin, seguindo o padrão MVC e conectada a banco de dados relacional.
 
-### 🖼️ [Frontend Posts](https://github.com/eduardomartins2/frontend-posts)
-Interface em React para consumir a Go API de posts. Utiliza Axios e React Hooks para requisições e manipulação de estado.
+### 🖼️ [Frontend Posts](https://github.com/eduardomartins2/frontend-posts)  
+Interface em HTML e CSS puro para consumir a Go API de posts. Usa Axios para requisições HTTP.
 
-### 🎥 [Screen Recorder](https://github.com/eduardomartins2/screen-recorder)
-Gravador de tela simples via navegador, com download automático de vídeo. Utiliza MediaRecorder API do navegador.
+### 🎥 [Screen Recorder](https://github.com/eduardomartins2/screen-recorder)  
+Gravador de tela simples feito com Python, usando `pyautogui`, `tkinter`, `numpy` e `threading`. Permite salvar vídeos automaticamente via navegador de arquivos.
 
-### 👥 [Equipe05](https://github.com/eduardomartins2/equipe05)
-Projeto colaborativo com backend em Flask e frontend simples, voltado para aprendizado em equipe de APIs RESTful e autenticação.
+### 👥 [Equipe05](https://github.com/eduardomartins2/equipe05) — *Código Certo Coders*  
+Projeto colaborativo com backend em Django e frontend em Next.js. Foco em APIs RESTful, autenticação, UI/UX, modelagem de banco de dados e todo o ciclo de desenvolvimento de uma aplicação.
+
 ---
 
 ## 📫 Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-eduardomartins2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardomartins2/)](https://www.linkedin.com/in/eduardomartins2/)
-[![Gmail](https://img.shields.io/badge/-eduardomartinsdev2@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardomartinsdev2@gmail.com)](mailto:eduardomartinsdev2@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-eduardomartins2-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardomartins2/)  
+[![Gmail](https://img.shields.io/badge/-eduardomartinsdev2@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:eduardomartinsdev2@gmail.com)  
 [![GitHub Followers](https://img.shields.io/github/followers/eduardomartins2?label=GitHub&style=social)](https://github.com/eduardomartins2)
 
 ---
