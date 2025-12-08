@@ -1,12 +1,12 @@
 <h1 align="center">👋 Olá! Eu sou o Eduardo Martins</h1>
-<p align="center">💻 Engenheiro de Software | Foco em Backend, APIs e Segurança</p>
+<p align="center">💻 Desenvolvedor de Software | Foco em Frontend, Backend, APIs e Segurança</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de Sistemas de Informação (5º período)  
-🔒 Entusiasta de Segurança da Informação, Desenvolvimento Backend e DevOps  
+🎓 Estudante de Sistemas de Informação (7º período)  
+🔒 Entusiasta de Segurança da Informação, Desenvolvimento de Software
 🐧 Apaixonado por Linux, boas práticas de código e aprendizado contínuo
 
 ---
@@ -42,12 +42,15 @@
 
 ### 📸 [Fotografias Vitória](https://github.com/eduardomartins2/fotografias-vitoria)  
 Site institucional em React.js para fotógrafa, com foco em galeria de imagens e formulário de contato. Utiliza React Router DOM.
+https://vitoriafotografias.vercel.app/
 
-### 🐹 [Go API Posts](https://github.com/eduardomartins2/go-api-posts)  
-API RESTful em Go com o framework Gin, seguindo o padrão MVC e conectada a banco de dados relacional.
+### 🖼️ [NotePad Local](https://github.com/eduardomartins2/frontend-posts)  
+Interface em HTML, CSS e JavaScript puro de uma aplicaçao de bloco de notas LocalStorage.
+https://notepadlocal.vercel.app/
 
-### 🖼️ [Frontend Posts](https://github.com/eduardomartins2/frontend-posts)  
-Interface em HTML e CSS puro para consumir a Go API de posts. Usa Axios para requisições HTTP.
+### 🔒 [Senhas Fortes](https://github.com/eduardomartins2/site-senhas)  
+Interface em HTML, CSS e JavaScript puro, para um site que gera senhas aleatorias que sao seguras contras força bruta.
+https://sosenhafortes.vercel.app/
 
 ### 🎥 [Screen Recorder](https://github.com/eduardomartins2/screen-recorder)  
 Gravador de tela simples feito com Python, usando `pyautogui`, `tkinter`, `numpy` e `threading`. Permite salvar vídeos automaticamente via navegador de arquivos.
