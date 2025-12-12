@@ -40,16 +40,24 @@
 
 ## 📌 Projetos em Destaque
 
+### 🏢 [MD Soluções](https://github.com/eduardomartins2/frontend-posts)  
+Landing Page da empresa MD Soluçoes, feito em React.js com o gerenciador de pacotes Vite.
+
+https://md-solucoes.vercel.app/
+
 ### 📸 [Fotografias Vitória](https://github.com/eduardomartins2/fotografias-vitoria)  
 Site institucional em React.js para fotógrafa, com foco em galeria de imagens e formulário de contato. Utiliza React Router DOM.
+
 https://vitoriafotografias.vercel.app/
 
 ### 🖼️ [NotePad Local](https://github.com/eduardomartins2/frontend-posts)  
 Interface em HTML, CSS e JavaScript puro de uma aplicaçao de bloco de notas LocalStorage.
+
 https://notepadlocal.vercel.app/
 
 ### 🔒 [Senhas Fortes](https://github.com/eduardomartins2/site-senhas)  
 Interface em HTML, CSS e JavaScript puro, para um site que gera senhas aleatorias que sao seguras contras força bruta.
+
 https://sosenhafortes.vercel.app/
 
 ### 🎥 [Screen Recorder](https://github.com/eduardomartins2/screen-recorder)  
@@ -62,9 +70,7 @@ Projeto colaborativo com backend em Django e frontend em Next.js. Foco em APIs R
 
 ## 📫 Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-eduardomartins2-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardomartins2/)  
-[![Gmail](https://img.shields.io/badge/-eduardomartinsdev2@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:eduardomartinsdev2@gmail.com)  
-[![GitHub Followers](https://img.shields.io/github/followers/eduardomartins2?label=GitHub&style=social)](https://github.com/eduardomartins2)
+[![Linkedin](https://img.shields.io/badge/-eduardomartins2-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/eduardomartins2/) [![Gmail](https://img.shields.io/badge/-eduardomartinsdev2@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:eduardomartinsdev2@gmail.com) [![GitHub Followers](https://img.shields.io/github/followers/eduardomartins2?label=GitHub&style=social)](https://github.com/eduardomartins2)
 
 ---
 
