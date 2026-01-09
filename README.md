@@ -40,7 +40,7 @@
 
 ## 📌 Projetos em Destaque
 
-### 🏢 [MD Soluções](https://github.com/eduardomartins2/frontend-posts)  
+### 🏢 [MD Soluções](https://github.com/eduardomartins2/md-solucoes)  
 Landing Page da empresa MD Soluçoes, feito em React.js com o gerenciador de pacotes Vite.
 
 https://md-solucoes.vercel.app/
